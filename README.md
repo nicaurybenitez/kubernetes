@@ -4,7 +4,7 @@ Installation of kubernetes cluster in private cloud.
 
 ## Download
 
-- Kubernetes server - v1.10.0 - [url](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.10.md#v1100)
+- Kubernetes server - v1.15.0 - [url](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.15.md#v1100)
 
 ```console
 wget https://dl.k8s.io/v1.10.0/kubernetes-server-linux-amd64.tar.gz
